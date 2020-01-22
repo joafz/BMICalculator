@@ -2,7 +2,6 @@
 //  BMI.swift
 //  BMI Calculator
 
-
 import UIKit
 
 struct BMI {

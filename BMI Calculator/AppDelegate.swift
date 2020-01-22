@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  BMI Calculator
 
-
 import UIKit
 
 @UIApplicationMain
