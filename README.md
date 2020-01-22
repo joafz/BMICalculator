@@ -6,4 +6,8 @@
 <p>This is a Body Mass Index calculator.</p> 
 <p>Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on their BMI.</p>
 
+
+## Important Concepts
+<p>Optional binding, optional chaining and the nil coalescing operator.</p>
+
 ![BMI](https://user-images.githubusercontent.com/39883704/72737168-0f286100-3b6d-11ea-888f-dce36807cfe8.gif)
