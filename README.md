@@ -4,7 +4,7 @@
 
 ## How it works!
 <p>This is a Body Mass Index calculator.</p> 
-<p>Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on their BMI.</p>
+<p>Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on their BMI..</p>
 
 
 ## Important Concepts
